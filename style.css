@@ -1,0 +1,43 @@
+body{
+    background-color:lightcyan;
+padding: 10px;
+border :  5px solid black;
+}
+.container{
+text-align: center;
+text-decoration: underline;
+
+}
+.mid{
+text-align: center;
+width: 100%;
+
+}#lm{
+text-align: center;
+text-decoration: underline;
+}
+
+.class{
+background-color: rgb(46, 139, 87, 0.25);;
+    /* box-shadow: 20px 20px 20px #98FB98; */
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+.footer{
+text-align: center;
+text-decoration: underline;
+
+}
+.awpic{
+text-align: center;
+}
+.awards{
+background-color: rgb(46, 139, 87, 0.25);;
+    /* box-shadow: 20px 20px 20px #98FB98; */
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
